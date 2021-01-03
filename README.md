@@ -8,3 +8,6 @@ Then install the neccessary packages via:
 pip install -r requirements.txt
 ```
 ### data preparation 
+The task is to translate T1 and T2 modalities to FLAIR and DIR modalities with attention (segmentation) masks. 
+Thus, we need to read the data from raw scans and save them into 2D slices. 
+
