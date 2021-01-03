@@ -7,3 +7,4 @@ Then install the neccessary packages via:
 ```
 pip install -r requirements.txt
 ```
+### data preparation 
